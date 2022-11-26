@@ -255,6 +255,7 @@ int chooseAnsNo;
       }
    }
    cout<<"Right Answer: "<<rightAns <<endl<<"Wrong Answer: "<<wrongAns<<endl;
+   myfile <<"Name: "<<Name << endl<<"Id: "<< ID<<endl<< "Rignt Answer: "<<rightAns <<endl <<"Wrong Ans: "<<wrongAns<<endl;
 }
 return 0;
    }
